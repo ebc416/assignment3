@@ -12,7 +12,7 @@ import android.widget.LinearLayout;
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.example.assignment2pt2.R;
+import com.example.assignment3.R;
 import com.example.assignment3.model.CourseEnrollment;
 import com.example.assignment3.model.DBStudent;
 import com.example.assignment3.model.Student;
