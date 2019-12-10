@@ -6,7 +6,7 @@ import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.TextView;
 
-import com.example.assignment2pt2.R;
+import com.example.assignment3.R;
 import com.example.assignment3.model.DBStudent;
 import com.example.assignment3.model.Student;
 
